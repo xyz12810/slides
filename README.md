@@ -18,6 +18,12 @@
 * [简说apt包管理系统](http://htmlpreview.github.io/?https://raw.githubusercontent.com/shell909090/slides/master/md/apt.html) ([source](md/apt.md)) 2014-08-28在七牛的培训
 * [上下文切换技术简介](http://htmlpreview.github.io/?https://raw.githubusercontent.com/shell909090/slides/master/context/context_slide.html) ([source](context/context_slide.md)) ([tip](context/context.md)) ([test](context/context_test.md)) 2014-11-14在七牛的培训，2014-11-15在PyCon2014上的演讲
 * [docker的功能，结构，用法](http://htmlpreview.github.io/?https://raw.githubusercontent.com/shell909090/slides/master/md/docker1.html) ([source](md/docker1.md)) 2015-07-25在mpd大会上的演讲
+* [run it remote  一种远程执行代码的方法](http://htmlpreview.github.io/?https://raw.githubusercontent.com/shell909090/slides/master/rir/pycon.html) 2015-09-12在PyCon2015 Shanghai的演讲
+  * [cli版本](rir/cli.md) 播放工具[MDP](https://github.com/visit1985/mdp)。
+  * [hwinfo录像](rir/hwinfo.rec)
+  * [noapt录像](rir/noapt.rec)
+  * [sync录像](rir/sync.rec)
+* [linux system security and tunning - basic](md/linuxsec_basic.md) 播放工具[MDP](https://github.com/visit1985/mdp)。
 
 # LICENSE
 
